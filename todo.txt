@@ -1,0 +1,7 @@
+alter the read and split
+try to create code blocks that make sense
+parse it in a way that no code block is cut in the middle
+ditch the scrap n crawl for now
+and clean up the code.
+Arrange the files in folders within the projects
+and save them there using relative locations
